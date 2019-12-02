@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kafka",
+            "request": "launch",
+            "mainClass": "Kafka",
+            "projectName": "info.chenyichen.jvm_120cefb1"
+        }
+    ]
+}
